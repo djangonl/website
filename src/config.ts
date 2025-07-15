@@ -3,10 +3,10 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://astro-chiri.netlify.app/', // Site domain
+    website: 'https://djangonl.com/', // Site domain
     title: 'DjangoNL', // Site title
     author: '', // Author name
-    description: 'Minimal blog built by Astro', // Site description
+    description: 'Django NL is a community for Django and Python developers in the Netherlands.', // Site description
     language: 'en-US' // Default language
   },
 
