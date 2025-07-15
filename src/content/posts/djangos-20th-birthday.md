@@ -1,11 +1,11 @@
 ---
 title: Django's 20th birthday 🎂
-pubDate: '2025-07-15'
+pubDate: '2025-08-16'
 ---
 
 # Join us to celebrate Django’s 20th Birthday! 🎉
 
-Django turns 20! Come celebrate with us in Amsterdam on August 16, 2025, at [Vondelpark](https://maps.app.goo.gl/MydHmWnmM7kGBcUh6) as we also kick off the DjangoNL community. We’d love to see you there!
+Django turns 20! Come celebrate with us in Amsterdam on **August 16, 2025**, at [Vondelpark](https://maps.app.goo.gl/MydHmWnmM7kGBcUh6) as we also kick off the DjangoNL community. We’d love to see you there! [Add to your calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20250816T130000Z%2F20250816T163000Z&details=http%3A%2F%2Flocalhost%3A4322%2Fdjangos-20th-birthday%2F&location=Vondelpark%2C%20Amsterdam&text=Django%27s%2020th%20birthday%20in%20Amsterdam)!
 
 # What’s happening?
 
