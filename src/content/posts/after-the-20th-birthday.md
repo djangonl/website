@@ -11,6 +11,8 @@ There were around 15 of us and the biggest surprise was seeing [Adrian Holovaty]
 
 We introduced ourselves, shared some Django stories and then played a round of [lightning questions](/pdfs/20th-birthday-lightning-questions.pdf) with asks like “What’s your favorite third-party Django package?”, “Have you ever left the Django debug toolbar running on a live site?” and “If you could meet Django’s creators, what’s the first question you’d ask them?”. With Adrian there, last question wasn’t just hypothetical.
 
+Being part of the celebrations all over the world for [Django’s 20th birthday](https://birthday20.djangoproject.com/) was truly special.
+
 And yes, we ended with cake. 🎂
 
 ![Birthday Cake](/images/20th-birthday-2.jpg)
