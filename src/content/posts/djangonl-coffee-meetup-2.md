@@ -1,5 +1,5 @@
 ---
-title: 2nd Coffee Meetup
+title: DjangoNL Amsterdam Coffee Meetup
 pubDate: '2026-06-25'
 ---
 
