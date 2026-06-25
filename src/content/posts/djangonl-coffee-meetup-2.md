@@ -1,5 +1,5 @@
 ---
-title: DjangoNL Coffee Meetup #2 ☕
+title: 2nd Coffee Meetup
 pubDate: '2026-06-25'
 ---
 
@@ -11,10 +11,10 @@ The meetup will take place at **Café Werkplaats in Volkshotel, Amsterdam**.
 
 # Event details
 
-Date: Sunday, 19 July
-Time: 14:00–16:30
-Location: Café Werkplaats, Volkshotel
-Address: Wibautstraat 150, 1091 GR Amsterdam
+- Date: Sunday, 19 July 2026
+- Time: 14:00 to 16:30
+- Location: Café Werkplaats, Volkshotel
+- Address: [Wibautstraat 150, 1091 GR Amsterdam](https://maps.app.goo.gl/V7DQt1j6Mo2BQewU6)
 
 We’ll start at 14:00 with arrival and coffee, and wrap up around 16:30. People are welcome to stay longer if they want.
 
