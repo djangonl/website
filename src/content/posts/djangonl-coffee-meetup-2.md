@@ -12,11 +12,11 @@ The meetup will take place at **Café Werkplaats in Volkshotel, Amsterdam**.
 # Event details
 
 - Date: Sunday, 19 July 2026
-- Time: 14:00 to 16:30
+- Time: `14:00` to `16:30`
 - Location: Café Werkplaats, Volkshotel
 - Address: [Wibautstraat 150, 1091 GR Amsterdam](https://maps.app.goo.gl/V7DQt1j6Mo2BQewU6)
 
-We’ll start at 14:00 with arrival and coffee, and wrap up around 16:30. People are welcome to stay longer if they want.
+We’ll start at 14:00 with arrival and coffee, and wrap up around `16:30`. People are welcome to stay longer if they want.
 
 This meetup is for anyone interested in Django, whether you use it professionally, are learning it, or are simply curious about the community.
 
