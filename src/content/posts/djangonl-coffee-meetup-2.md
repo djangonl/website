@@ -5,7 +5,7 @@ pubDate: '2026-06-25'
 
 # We’re happy to announce the second DjangoNL meetup!
 
-This time, we’ll keep things small and informal. There will be no talks, no fixed agenda, and no formal programme — just coffee, conversation, and a chance to meet other Django and Python people in the Netherlands.
+This time, we’ll keep things small and informal. There will be no talks, no fixed agenda, and no formal programme: just coffee, conversation, and a chance to meet other Django and Python people in the Netherlands.
 
 The meetup will take place at **Café Werkplaats in Volkshotel, Amsterdam**.
 
@@ -16,7 +16,7 @@ The meetup will take place at **Café Werkplaats in Volkshotel, Amsterdam**.
 - Location: Café Werkplaats, Volkshotel
 - Address: [Wibautstraat 150, 1091 GR Amsterdam](https://maps.app.goo.gl/V7DQt1j6Mo2BQewU6)
 
-We’ll start at 14:00 with arrival and coffee, and wrap up around `16:30`. People are welcome to stay longer if they want.
+We’ll start at `14:00` with arrival and coffee, and wrap up around `16:30`. People are welcome to stay longer if they want.
 
 This meetup is for anyone interested in Django, whether you use it professionally, are learning it, or are simply curious about the community.
 
